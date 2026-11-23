@@ -21,7 +21,6 @@ jobs:
           distribution: temurin
           java-version: '17'
           
-      - 
       - name: Instalar SDK 35
         shell: bash
         run: |
