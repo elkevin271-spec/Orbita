@@ -1,0 +1,19 @@
+ORBITA SPATIAL 1.0
+==================
+Este ZIP contiene el proyecto Android, NO una APK ya compilada.
+
+MÉTODO FÁCIL:
+1. Crea un repositorio PRIVADO de GitHub.
+2. Extrae y sube el contenido completo (incluida la carpeta .github).
+3. Actions > Compilar Orbita Spatial APK > Run workflow.
+4. Descarga el artefacto Orbita-Spatial-1.0-APK.
+5. En su interior encontrarás app-debug.apk instalable.
+
+La app puede coexistir con Órbita 0.6 porque usa otra ID.
+
+ESTADO DE CALIDAD:
+- Pruebas Java puras del DSP: aprobadas.
+- APK Android: pendiente de compilación en Android SDK 35.
+- Funcionamiento real en Redmi/Android: pendiente de prueba.
+
+Para detalles, ver README.md.
